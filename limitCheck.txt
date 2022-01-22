@@ -1,0 +1,17 @@
+1:00:00 PM Alarm: Temperature is currently 39.6℃ Under the limit of 37.6℃
+1:00:00 PM Alarm: Temperature is currently 39.3℃ Under the limit of 37.6℃
+1:00:00 PM Alarm: Temperature is currently 39.4℃ Under the limit of 37.6℃
+1:00:00 PM Alarm: Temperature is currently 37.9℃ Under the limit of 37.6℃
+1:00:00 PM MESSAGE: Temperature is currently in range: 36.8℃
+1:00:00 PM ALERT: Temperature is currently 39.3℃! This is over the limit of 37.6℃
+1:00:00 PM ALERT: Temperature is currently 37.8℃! This is over the limit of 37.6℃
+1:00:00 PM ALERT: Temperature is currently 38.7℃! This is over the limit of 37.6℃
+1:00:00 PM MESSAGE: Temperature is currently in range: 37.5℃
+.1:00:00 PM ALERT: Temperature is currently 38.6℃! This is over the limit of 37.6℃
+!1:00:00 PM ALERT: Temperature is currently 37.9℃! This is over the limit of 37.6℃
+!1:00:00 PM ALERT: Temperature is currently 39.7℃ This is over the limit of 37.6℃!
+1:00:00 PM MESSAGE: Temperature is currently in range: 36.6℃.
+1:00:00 PM MESSAGE: Temperature is currently in range: 36.7℃.
+1:00:00 PM MESSAGE: Temperature is currently in range: 37.1℃.
+1:00:00 PM MESSAGE: Temperature is currently in range: 37.6℃.
+1:00:00 PMpoo Temperature is currently in range: 39.5℃.
